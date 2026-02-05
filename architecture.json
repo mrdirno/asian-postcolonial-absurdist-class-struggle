@@ -1,0 +1,160 @@
+{
+  "book_id": "the-ghost-of-goh-seng-kiat",
+  "title": "The Ghost of Goh Seng Kiat",
+  "tagline": "In a city where even the air is rented, a professional ghost for the rich finds the living are the ones trapped in an absurd performance.",
+  "target_words": 70000,
+  "actual_words": 74815,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Memory",
+    "Architectural Class Warfare",
+    "Performative Identity Under Capitalism",
+    "Postcolonial Absurdity in Urban Systems"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rental Air",
+      "words": 3115
+    },
+    {
+      "ch": 2,
+      "title": "Unscripted Inquiry",
+      "words": 3115
+    },
+    {
+      "ch": 3,
+      "title": "The Social Catwalk",
+      "words": 3115
+    },
+    {
+      "ch": 4,
+      "title": "Vertical Stratification",
+      "words": 3115
+    },
+    {
+      "ch": 5,
+      "title": "Echoes in the Mansions",
+      "words": 3115
+    },
+    {
+      "ch": 6,
+      "title": "The Ministry's Cheerful Surgeons",
+      "words": 3115
+    },
+    {
+      "ch": 7,
+      "title": "A Fungal Infection of a Beard",
+      "words": 3115
+    },
+    {
+      "ch": 8,
+      "title": "Patina of Spiritual Distress",
+      "words": 3115
+    },
+    {
+      "ch": 9,
+      "title": "Clause 4, Subsection B",
+      "words": 3115
+    },
+    {
+      "ch": 10,
+      "title": "The Pea Shoot Protocol",
+      "words": 3115
+    },
+    {
+      "ch": 11,
+      "title": "Taxation of the Sky",
+      "words": 3115
+    },
+    {
+      "ch": 12,
+      "title": "Authentic Colonial-Era Sorrows",
+      "words": 3115
+    },
+    {
+      "ch": 13,
+      "title": "Legacy Mid-Tier",
+      "words": 3115
+    },
+    {
+      "ch": 14,
+      "title": "Volumetric Fines",
+      "words": 3115
+    },
+    {
+      "ch": 15,
+      "title": "The Great Flood Tales",
+      "words": 3115
+    },
+    {
+      "ch": 16,
+      "title": "Boardroom Seance",
+      "words": 3115
+    },
+    {
+      "ch": 17,
+      "title": "The Invisible Landlords",
+      "words": 3115
+    },
+    {
+      "ch": 18,
+      "title": "Gilded Dusk",
+      "words": 3115
+    },
+    {
+      "ch": 19,
+      "title": "Walking, Talking Mausoleum",
+      "words": 3115
+    },
+    {
+      "ch": 20,
+      "title": "Non-Negotiable Rewrites",
+      "words": 3115
+    },
+    {
+      "ch": 21,
+      "title": "Public-Air Square Delta-7",
+      "words": 3115
+    },
+    {
+      "ch": 22,
+      "title": "The Durian Tree's Spite",
+      "words": 3115
+    },
+    {
+      "ch": 23,
+      "title": "Acute Allergy to Humility",
+      "words": 3115
+    },
+    {
+      "ch": 24,
+      "title": "The Final Performance",
+      "words": 3115
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a new 'Public Harmony' regulation mandates that all family meals must include a stranger from a different economic tier, observed through Lee's eyes during a Goh family dinner.",
+      "Draft the internal memo from the Ministry of Urban Harmony announcing a new policy: 'Emotional Space Rationing,' where displays of grief, joy, or frustration are taxed based on duration and decibel level.",
+      "Create a monologue from Old Mrs. Chua as she witnesses the balcony partitions being removed, weaving her story of the 'great flood' with the new 'volumetric equity.'",
+      "Write a job listing for Elysian Fields Memorials seeking a 'Posthumous Presence & Legacy Fulfillment Associate,' detailing the absurd qualifications and clauses."
+    ],
+    "technical": [
+      "Build a 'Volumetric Equity Calculator' web tool where users input their apartment details and it calculates their air tax, social catwalk exposure score, and potential fines.",
+      "Design a speculative interface for Lee's 'ghost' work tablet, showing his schedule of performances, client scripts, and a real-time map of Ministry spatial realignments affecting his commute."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Franz Kafka",
+      "Ha Jin",
+      "Ursula K. Le Guin",
+      "Rohinton Mistry"
+    ]
+  },
+  "cover_prompt": "A spectral figure in a tailored suit, Goh Seng Kiat, stands transparent and weary, holding a glowing ledger that lists the memories he is paid to haunt, [in the heart of a hyper-dense, rain-slicked Asian megacity where luxury skyscrapers are built directly over the crumbling, neon-lit shophouses of the past], in the atmospheric style of Simon Stålenhag and Moebius, blending melancholic hyper-realism with surreal architectural detail, [book cover framing, centered composition looking up from a wet alley at the ghost who is both part of and separate from the oppressive cityscape], [cinematic chiaroscuro lighting with the cold, electric blues and neon pinks of the city below contrasting with the ghost's warm, melancholic golden aura], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev. The scene captures the architectural class warfare: the ghost's form is pierced by the sleek lines of a billionaire's penthouse, while his feet dissolve into the vibrant, chaotic street market below. This is the commodification of memory and postcolonial absurdity; his performative identity is a service, and the living residents in the towering windows are blurred, anonymous performers in their own gold-plated cages. The composition is a vertical slice of societal strata, a haunting portrait of a professional ghost realizing he is the only free entity in a system where even the air is rented."
+}
