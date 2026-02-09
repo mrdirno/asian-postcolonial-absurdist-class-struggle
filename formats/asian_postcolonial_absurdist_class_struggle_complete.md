@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The first thing you must understand is that the air in the city is not free. It is a rental property, managed by a consortium of invisible landlords who charge a premium for oxygen that hasn’t already been chewed up and spat out by a million other lungs. I was acutely aware of this as I stood on the balcony of Apartment 7B, The Celestial Mansions, sucking down my morning ration of particulates and trying to will the durian tree in the concrete planter below to bear something other than spite.
@@ -81,6 +83,8 @@ The velocity of the absurd was not sudden. It was constant, a riptide dressed in
 But as I turned the corner onto my street, I saw the orange overalls. They were on my floor now. I could hear the violent, cheerful grinding of a concrete saw biting into the balcony partition. A fine white dust, the pulverized residue of privacy, was drifting down onto the street like a peculiar, localized snow.
 
 I picked up my pace. I had to see it. Before it was gone. Before my little cage was opened, and I was forced to join the flock.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -173,6 +177,8 @@ I looked at his focused, furious face in the dim light. He was no longer just a 
 I went back inside. But as I lay in the dark, I thought not of Mr. Goh’ pea shoots or Alistair’s ice potato. I thought of the *scritch-scritch-scritch* on the steel. It was a smaller sound than a concrete saw, but in its way, it was louder. It was the sound of the occupied talking back. Not with a shout, but with a file.
 
 The balcony was gone. The scripts were failing. But something else, something raw and un-contracted, was scratching at the surface.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
